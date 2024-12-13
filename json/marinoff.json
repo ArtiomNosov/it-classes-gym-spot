@@ -1,0 +1,86 @@
+[
+    {
+        "photo":"pic/ff/ff6.jpg",
+        "type":"Вид спорта: футбол",
+        "adres":"Белореченская улица, 45к2",
+        "opisanie":"норм",
+        "link":"html/football/marinoffcard1.html"
+    },
+    {
+        "photo":"pic/fffb/fffb3.jpg",
+        "type":"Вид спорта: футбол",
+        "adres":"Люблинская ул., 159, корп. 1",
+        "opisanie":"норм",
+        "link":"html/football/marinoffcard2.html"
+    },
+    {
+        "photo":"pic/ff/ff7.jpg",
+        "type":"Вид спорта: футбол",
+        "adres":"Мячковский бульвар, 7к2",
+        "opisanie":"норм",
+        "link":"html/football/marinoffcard3.html"
+    },
+    {
+        "photo":"pic/ff/ff2.jpg",
+        "type":"Вид спорта: футбол",
+        "adres":"43-й квартал, жилой район Марьинский Парк, район Марьино",
+        "opisanie":"норм",
+        "link":"html/football/marinoffcard4.html"
+    },
+    {
+        "photo":"pic/ff/ff8.jpg",
+        "type":"Вид спорта: футбол",
+        "adres":"43-й квартал, жилой район Марьинский Парк, район Марьино",
+        "opisanie":"норм",
+        "link":"html/football/marinoffcard5.html"
+    },
+    {
+        "photo":"pic/fffb/fffb5.jpg",
+        "type":"Вид спорта: футбол",
+        "adres":"ул. Перерва, 52",
+        "opisanie":"норм",
+        "link":"html/football/marinoffcard6.html"
+    },
+    {
+        "photo":"pic/ff/ff9.jpg",
+        "type":"Вид спорта: футбол",
+        "adres":"4-й микрорайон, жилой район Марьинский Парк, район Марьино",
+        "opisanie":"норм",
+        "link":"html/football/marinoffcard7.html"
+    },
+    {
+        "photo":"pic/fffb/fffb4.jpg",
+        "type":"Вид спорта: футбол",
+        "adres":"Поречная улица, 9",
+        "opisanie":"норм",
+        "link":"html/football/marinoffcard8.html"
+    },
+    {
+        "photo":"pic/fffb/fffb1.jpg",
+        "type":"Вид спорта: футбол",
+        "adres":"Поречная улица, 3к2",
+        "opisanie":"норм",
+        "link":"html/football/marinoffcard9.html"
+    },
+    {
+        "photo":"pic/ff/ff10.jpg",
+        "type":"Вид спорта: футбол",
+        "adres":"Люблинская улица, 179/1",
+        "opisanie":"норм",
+        "link":"html/football/marinoffcard10.html"
+    },
+    {
+        "photo":"pic/fffb/fffb6.jpg",
+        "type":"Вид спорта: футбол",
+        "adres":"Поречная улица, 17/22",
+        "opisanie":"норм",
+        "link":"html/football/marinoffcard11.html"
+    },
+    {
+        "photo":"pic/ff/ff3.jpg",
+        "type":"Вид спорта: футбол",
+        "adres":"Перервенский бул., 20, корп. 1",
+        "opisanie":"норм",
+        "link":"html/football/marinoffcard12.html"
+    }
+]

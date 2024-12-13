@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/styles/paid_styles.css">
+</head>
+<body>
+    <div class="logo">
+        <a href="/filtrs.html"><img src="/pic/logo.jpg" class="logop" alt="Логотип" width="1050" height="250"></a>
+    </div>
+    <div>
+        <a href="/lublinopf.html">
+        <button type="submit" class="button">Назад</button>
+        </a>
+    </div>
+    <hr color=orange>
+        <div class="platforms">
+            <img src="/pic/pf/pf1.jpg" alt="Фото футбольной площадки">
+        </div>
+        <div class="description">
+            <h3>
+                Описание:Вроде норм площадка и можно играть
+            </h3>
+        </div>
+        <div class="adress"> 
+            <h3>Адрес:Тихорецкий бул.,вл1,Москва</h3>
+        </div>
+        <div class="price">
+            <h2><span class="slovoprice">Цена</span></h2>
+            <label class="кнопка">
+                <button id="showPrice">></button>
+            </label>
+            <div id="priceFrame" class="price-frame">
+                <p>"Цена площадки:
+                    <br>
+                    от 5800 руб/ч
+                </p>
+            </div>
+        </div>
+        <div class="phone">
+            <h2><span class="slovophone">Номер владельца </span></h2>
+            <label class="кнопка">
+                <button id="showPhone">></button>
+            </label>
+            <div id="phoneFrame2" class="phone-frame">
+                <p>Номер телефона:
+                    <br>
+                    <span  id="phoneNumber">+7 (929) 555-11-88</span>
+                </p>
+            </div>
+        </div>
+        <div class="time">
+            <h2><span class="slovotime">Время работы </span></h2>
+            <label class="кнопка">
+                <button id="showtime">></button>
+            </label>
+            <div id="timeFrame3" class="time-frame">
+                <p>График работы:
+                    <br>
+                    <span  id="timeNumber">
+                        Пн-Вс:24ч
+                    </span>
+                </p>
+            </div>
+        </div>
+        <div class="otziv">
+            <h2><span class="clovaotziv">Отзывы</span></h2>
+                <form action="/search" method="get">
+                    <input type="text" name="query" placeholder="Оставить комментарий">
+                    <button type="submit">Отправить</button>
+                </form>
+        </div>
+        <script src="/js/pscript.js"> </script>
+</body>
+</html>

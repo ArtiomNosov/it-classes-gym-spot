@@ -1,0 +1,16 @@
+[
+    {
+        "photo":"pic/fb/fb3.jpg",
+        "type":"Вид спорта: баскетбол",
+        "adres":"улица Верхние поля 47к1",
+        "opisanie":"норм",
+        "link":"html/basketball/lublinofbcard1.html"
+    },
+    {
+        "photo":"pic/fb/fb4.jpg",
+        "type":"Вид спорта: баскетбол",
+        "adres":"Краснодарская улица, 74к2",
+        "opisanie":"норм",
+        "link":"html/basketball/lublinofbcard2.html"
+    }
+]

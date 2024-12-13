@@ -1,0 +1,16 @@
+[
+    {
+        "photo":"pic/ff/ff4.jpg",
+        "type":"Вид спорта: футбол",
+        "adres":"улица Верхние поля 47к1",
+        "opisanie":"норм",
+        "link":"html/football/lublinoffcard1.html"
+    },
+    {
+        "photo":"pic/ff/ff5.jpg",
+        "type":"Вид спорта: футбол",
+        "adres":"Братиславский парк",
+        "opisanie":"норм",
+        "link":"html/football/lublinoffcard2.html"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "photo":"pic/fb/fb5.jpg",
+        "type":"Вид спорта: баскетбол",
+        "adres":"улица Верхние поля 40к2",
+        "opisanie":"норм",
+        "link":"html/basketball/marinofbcard1.html"
+    },
+    {
+        "photo":"pic/fb/fb6.jpg",
+        "type":"Вид спорта: баскетбол",
+        "adres":"Белореченская улица, 47к1",
+        "opisanie":"норм",
+        "link":"html/basketball/marinofbcard2.html"
+    },
+    {
+        "photo":"pic/fffb/fffb2.jpg",
+        "type":"Вид спорта: баскетбол",
+        "adres":"5-й микрорайон, жилой район Марьинский Парк, район Марьино",
+        "opisanie":"норм",
+        "link":"html/basketball/marinofbcard3.html"
+    },
+    {
+        "photo":"pic/fb/fb2.jpg",
+        "type":"Вид спорта: баскетбол",
+        "adres":"жилой район Марьинский Парк, район Марьино",
+        "opisanie":"норм",
+        "link":"html/basketball/marinofbcard4.html"
+    },
+    {
+        "photo":"pic/fffb/fffb5.jpg",
+        "type":"Вид спорта: баскетбол",
+        "adres":"ул. Перерва, 52",
+        "opisanie":"норм" ,
+        "link":"html/basketball/marinofbcard5.html"
+    },
+    {
+        "photo":"pic/fffb/fffb3.jpg",
+        "type":"Вид спорта: баскетбол",
+        "adres":"Люблинская ул., 159, корп. 1",
+        "opisanie":"норм",
+        "link":"html/basketball/marinofbcard6.html"
+    },
+    {
+        "photo":"pic/fffb/fffb4.jpg",
+        "type":"Вид спорта: баскетбол",
+        "adres":"Поречная улица, 9",
+        "opisanie":"норм",
+        "link":"html/basketball/marinofbcard7.html"
+    },
+    {
+        "photo":"pic/fffb/fffb1.jpg",
+        "type":"Вид спорта: баскетбол",
+        "adres":"Поречная улица, 3к2",
+        "opisanie":"норм",
+        "link":"html/basketball/marinofbcard8.html"
+    },
+    {
+        "photo":"pic/fffb/fffb6.jpg",
+        "type":"Вид спорта: баскетбол",
+        "adres":"Поречная улица, 17/22",
+        "opisanie":"норм",
+        "link":"html/basketball/marinofbcard9.html"
+    }
+]
